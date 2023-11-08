@@ -1,3 +1,7 @@
+title: "220930_R_selectingSurveyWinners"
+author: "Inara Mahkamova & Alison C. Holland"
+date: "2022-09-30"
+
 # Install and load necessary packages
 
 install.packages("readxl")
